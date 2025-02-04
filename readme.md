@@ -1,0 +1,1 @@
+The user types a word, the program checks the similarity of this word with words in Portuguese, English and Spanish using the Levenshtein distance. If the word is incorrect, it suggests a correction in the corresponding language.
