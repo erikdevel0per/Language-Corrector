@@ -21,7 +21,7 @@ Definições de constantes:
 
 Função `levenshtein(const char *s1, const char *s2)`:
 
-Objetivo: Calcula a distância de Levenshtein entre duas palavras (`s1` e `s2`). A distância de Levenshtein é uma medida de diferença entre duas sequências de caracteres, representando o número mínimo de operações (inserções, exclusões e substituições de caracteres) necessárias para transformar uma sequência na outra.
+**Objetivo**: Calcula a distância de Levenshtein entre duas palavras (`s1` e `s2`). A distância de Levenshtein é uma medida de diferença entre duas sequências de caracteres, representando o número mínimo de operações (inserções, exclusões e substituições de caracteres) necessárias para transformar uma sequência na outra.
 
 Parâmetros:
 
