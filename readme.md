@@ -4,7 +4,7 @@
 O usuário digita uma palavra, o programa verifica a semelhança desta palavra com palavras em português, inglês e espanhol utilizando a distância de Levenshtein. Se a palavra estiver incorreta, sugere uma correção no idioma correspondente.
 
 ## Linguagem e Tipos de Código
-- **Linguagem:** O código foi escrito em *Linguagem C*
+- **Linguagem:** O código foi escrito em **Linguagem C**
 
 Tipos de Código:
 Inclusão de bibliotecas:
